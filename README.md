@@ -43,7 +43,7 @@ mobile view ,so that's what prompt me make i researh on how to deal with flexbox
 
 ### Continued development
 
-my  web development  career just started and nothig  will put end to it .my the next thing to  leaarn
+my  web development  career just start and nothig  will put end to it .my the next thing to learn
 is css grid .
 
 ### Useful resources
