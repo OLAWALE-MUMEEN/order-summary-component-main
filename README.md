@@ -54,5 +54,5 @@ is css grid .
 ## Author
 
 - Website - [OLAWALE-MUMEEN](https://www.your-site.com)
-- Frontend Mentor - [@@OLAWALE-MUMEEN](https://www.frontendmentor.io/profile/@OLAWALE-MUMEEN)
-- Twitter - [@@OLAWALE-MUMEEN2](https://www.twitter.com/@OLAWALE-MUMEEN2)
+- Frontend Mentor - [@OLAWALE-MUMEEN](https://www.frontendmentor.io/profile/@OLAWALE-MUMEEN)
+- Twitter - [@OLAWALE-MUMEEN2](https://www.twitter.com/@OLAWALE-MUMEEN2)
